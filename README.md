@@ -1,0 +1,2 @@
+# CronometroSlackware
+Cronômetro para Slackware
